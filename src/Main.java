@@ -36,7 +36,7 @@ public class Main {
 //            System.out.println("Test: Random number between 5 and 9: " + randomNoItems);
 //        }
 
-        for (int i=0; i<5; i++){
+        for (int i=0; i<25; i++){
             // Build a burrito
             itemCount = 0;
             randomNoItems = rnd.nextInt(5) + 5;

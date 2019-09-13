@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14696deb-39c8-4b2c-881e-051d93929c3c" name="Default Changelist" comment="" />
+    <list default="true" id="14696deb-39c8-4b2c-881e-051d93929c3c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="59" column="79" selection-start-line="59" selection-start-column="79" selection-end-line="59" selection-end-column="79" />
+            <state relative-caret-position="455">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#getMeat#0;class#Main#0" />
@@ -120,12 +122,12 @@
       <option name="presentableId" value="Default" />
       <updated>1568315311610</updated>
       <workItem from="1568315316856" duration="10001000" />
-      <workItem from="1568379695838" duration="9435000" />
+      <workItem from="1568379695838" duration="10158000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19436000" />
+    <option name="totallyTimeSpent" value="20159000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -144,7 +146,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.5557963" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.25460455" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
@@ -163,8 +165,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="59" column="79" selection-start-line="59" selection-start-column="79" selection-end-line="59" selection-end-column="79" />
+        <state relative-caret-position="455">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#getMeat#0;class#Main#0" />
